@@ -1,2 +1,6 @@
 ext 2
+<<<<<<< HEAD
 Changes
+=======
+changes for feature 1
+>>>>>>> 91b3ca84a35d3741ce8d91e1b87294eff51e3fc1

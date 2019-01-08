@@ -1,1 +1,2 @@
 new text
+Adding more text after removing ext2 remote.
